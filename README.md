@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour, je suis Théo 👋
 
 <!--
 **delettretheo/delettretheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
