@@ -1,4 +1,5 @@
 ### Bonjour, je suis Théo 👋
+- Etudiant en BTS SIO SISR à LPO Algoud-Laffemas
 
 <!--
 **delettretheo/delettretheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
