@@ -1,5 +1,5 @@
 ### Bonjour, je suis Théo 👋
-- Etudiant en 2ème année de BTS SIO SISR à LPO Algoud-Laffemas
+- Etudiant en BUT3 Réseaux et Télécommunications, Parcours Cybersécurité à l'IUT de Valence.
 
 <!--
 **delettretheo/delettretheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
